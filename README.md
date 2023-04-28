@@ -23,4 +23,8 @@ npm install
   <br>
 `npm run dev` in the front-end 
 
+## 3. Visit http://localhost:5173/ and try the chat
+  
+  
+
   <h1>
