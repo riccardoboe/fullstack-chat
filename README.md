@@ -17,7 +17,7 @@ npm install
 ```
 
 ## 3. Run the code
-  <li> `npm run start` in the back-end  </li>
-  <li> `npm run dev` in the front-end </li>
+`npm run start` in the back-end 
+`npm run dev` in the front-end 
 
   <h1>
