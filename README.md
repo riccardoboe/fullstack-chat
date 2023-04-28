@@ -5,7 +5,7 @@ Chat application with NodeJS ReactJS and ChatEngine.io
 
 <h1> How to run it 
 
-## 1. Create an account on ChatEngine.io and get your project ID
+## 1. Create an account on [ChatEngine.io](ChatEngine.io) and get your project ID
   
 ## 2. Add an `.env` file in the frontend chat folder
 In your `.env` file, add your Project ID (instead of `XXXX`)
